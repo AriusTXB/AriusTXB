@@ -1,7 +1,7 @@
 ## 🎓 Currently
 
 - **Undergraduate Research Assistant** @ NDE Lab (NAFOSTED funded) - Working on **Physics-Informed Neural Networks (PINNs)** for ultrasonic wave propagation in porous media (bone characterization)
-- **AI Researcher** @ Recursive Reasoning Institute - Exploring how Neural Networks learn algorithms (Deep Thinking & Hierarchical Reasoning)
+- **AI Researcher** @ Institute for Artificial Intelligence - Exploring how **Neural Networks learn algorithms** (Deep Thinking & Hierarchical Reasoning)
 - **BSc Artificial Intelligence** @ VNU-UET (GPA: 3.66/4.0) - Accelerated Program, Expected 2026
 
 &lt;br&gt;
