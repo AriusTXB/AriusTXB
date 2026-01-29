@@ -1,96 +1,91 @@
-## 🎓 Currently
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=200&section=header&text=Tran%20Xuan%20Bao&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%C3%97%20Physics%20%C3%97%20Economics&descSize=20" />
 
-- **Undergraduate Research Assistant** @ NDE Lab (NAFOSTED funded) - Working on **Physics-Informed Neural Networks (PINNs)** for ultrasonic wave propagation in porous media (bone characterization)
-- **AI Researcher** @ Institute for Artificial Intelligence - Exploring how **Neural Networks learn algorithms** (Deep Thinking & Hierarchical Reasoning)
-- **BSc Artificial Intelligence** @ VNU-UET (GPA: 3.66/4.0) - Accelerated Program, Expected 2026
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Researching+at+the+intersection+of...;Physics-Informed+Machine+Learning;Quantitative+Finance;Recursive+Reasoning+Systems;Deep+Learning+for+Wave+Propagation)](https://git.io/typing-svg)
 
-## 🔬 Research Interests
+<a href="mailto:Bao.X.Tran.Work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/baotran211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+<img src="https://komarev.com/ghpvc/?username=AriusTXB&style=for-the-badge&color=3498db" alt="Profile views"/>
 
-| Physics-Informed AI | Recursive Reasoning | Quantitative Finance |
-|:---:|:---:|:---:|
-| ⚛️ PDEs & Wave Propagation | 🧠 Algorithm Learning | 📈 Mathematical Modeling |
-| Biot's Theory & Inverse Problems | Deep Thinking Systems | Market Microstructure |
-| Ultrasonic Analysis | Neural Reasoning | AI-Driven Analytics |
+*"Bridging the deterministic beauty of Physics with the predictive power of Machine Learning"*
+</div>
 
-## 🛠️ Tech Stack & Tools
+---
 
-**Scientific Computing & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🎓 Currently
+- 🏛️ **BSc Artificial Intelligence** @ VNU-UET (GPA: 3.66/4.0, Expected 2026)
+- 🔬 **Undergraduate Research Assistant** @ NDE Lab (NAFOSTED funded) — Focus: **PINNs** for ultrasonic wave propagation.
+- 🧠 **AI Researcher** @ Recursive Reasoning Institute — Focus: Neural algorithm learning.
 
-**Engineering & MLOps**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-**Domain Specific**
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-## 🚀 Featured Projects
+### 🔬 Research Interests
+<p align="left">
+<img src="https://img.shields.io/badge/⚛️_Physics--Informed_AI-3498db?style=for-the-badge&labelColor=2980b9" alt="Physics"/>
+<img src="https://img.shields.io/badge/🧠_Recursive_Reasoning-9b59b6?style=for-the-badge&labelColor=8e44ad" alt="AI"/>
+<img src="https://img.shields.io/badge/📈_Quantitative_Finance-27ae60?style=for-the-badge&labelColor=1e8449" alt="Finance"/>
+</p>
 
-### [AInvest](link) - Automated Equity Research Platform
-`Quantitative Finance` `FastAPI` `FinBERT` `DeepSeek LLM`
+---
 
-Aggregates market data, social sentiment, and AI-driven news analysis to generate comprehensive investment memos and recommendations. Features RAG pipeline with FAISS/pgvector for financial knowledge retrieval.
+### 🛠️ Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **AI & Computing** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **MLOps & Dev** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-### [Hearo](link) - Real-time Meeting Assistant (🥉 CAMPATHON 2025)
-`Voice AI` `NLP` `PySide6` `faster-whisper`
+---
 
-Low-latency Vietnamese transcription using faster-whisper with real-time NER and keyword extraction (spaCy/Stanza). Glassmorphism UI with automated contextual search integration.
+### 🚀 Featured Projects
+*   **AInvest** | `FastAPI` `FinBERT` `DeepSeek` `RAG`  
+    *Automated Equity Research platform integrating LLMs with financial sentiment analysis.*
+*   **Hearo** | `Voice AI` `Faster-Whisper` `spaCy`  
+    *🥉 3rd Place CAMPATHON 2025. Smart meeting assistant for automated summarization.*
+*   **Bone PINNs** | `Physics-Informed ML` `Biot's Theory`  
+    *Solving inverse problems in ultrasonic material characterization.*
 
-### [Bone PINNs](link) - Ultrasonic Wave Analysis
-`Physics-Informed ML` `PyTorch` `PDEs`
+---
 
-Deep learning analysis of guided waves in porous media using Physics-Informed Neural Networks and Biot's theory. Solves inverse problems for bone material characterization.
-
-&lt;br&gt;
-
-## 📚 Publications & Awards
-
-- 📝 **Ultrasonic material characterization using physics-informed deep learning** - *COMOSA 2025*
-- 🏆 **Third Place**, CAMPATHON 2025: The Flow of Technology
+### 📚 Publications & Awards
+- 📝 **Publication:** *Ultrasonic material characterization using physics-informed deep learning* - **COMOSA 2025**
+- 🏆 **3rd Place**, CAMPATHON 2025: The Flow of Technology
 - 🎓 **VNU-UET Excellence Scholarship** (2024-2025)
 
-**Certifications:** Machine Learning Specialization (Stanford) • Google Data Analytics Professional Certificate • Neuro-Symbolic AI Summer School (Centaur AI)
+---
 
+### 📊 GitHub Analysis
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriusTXB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriusTXB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /></td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AriusTXB&theme=tokyonight&hide_border=true" />
+</div>
 
-## 📊 GitHub Stats
+---
 
-&lt;p align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriusTXB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriusTXB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=AriusTXB&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-
-## 🎯 Research Focus Areas
-
+### 🎯 Research Roadmap
 ```mermaid
 mindmap
-  root((Research)):::root
-    Physics⚛️:::blue
+  root((AI Research))
+    Physics
       Wave Propagation
       PINNs
-    AI🧠:::purple
-      Recursive Reasoning
+      Inverse Problems
+    Reasoning
+      Recursive Models
       Algorithm Learning
-    Finance📈:::green
+    Finance
       Market Modeling
       Sentiment Analysis
-
-  classDef root fill:#667eea,stroke:#764ba2,color:#fff
-  classDef blue fill:#4facfe,stroke:#00f2fe,color:#fff
-  classDef purple fill:#a8edea,stroke:#fed6e3,color:#2d3436
-  classDef green fill:#43e97b,stroke:#38f9d7,color:#000
 ```
-## 💡 Connect
 <div align="center">
-📧 Bao.X.Tran.Work@gmail.com | 🔗 linkedin.com/in/baotran211/
+  <br />
+    📧 <b>Bao.X.Tran.Work@gmail.com</b> | 🔗 <b>linkedin.com/in/baotran211/</b>
+  <br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=100&section=footer" />
 </div>
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=100&section=footer" />
-</div>
+```
