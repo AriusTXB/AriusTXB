@@ -4,8 +4,6 @@
 - **AI Researcher** @ Institute for Artificial Intelligence - Exploring how **Neural Networks learn algorithms** (Deep Thinking & Hierarchical Reasoning)
 - **BSc Artificial Intelligence** @ VNU-UET (GPA: 3.66/4.0) - Accelerated Program, Expected 2026
 
-&lt;br&gt;
-
 ## 🔬 Research Interests
 
 | Physics-Informed AI | Recursive Reasoning | Quantitative Finance |
@@ -13,8 +11,6 @@
 | ⚛️ PDEs & Wave Propagation | 🧠 Algorithm Learning | 📈 Mathematical Modeling |
 | Biot's Theory & Inverse Problems | Deep Thinking Systems | Market Microstructure |
 | Ultrasonic Analysis | Neural Reasoning | AI-Driven Analytics |
-
-&lt;br&gt;
 
 ## 🛠️ Tech Stack & Tools
 
@@ -60,20 +56,16 @@ Deep learning analysis of guided waves in porous media using Physics-Informed Ne
 
 **Certifications:** Machine Learning Specialization (Stanford) • Google Data Analytics Professional Certificate • Neuro-Symbolic AI Summer School (Centaur AI)
 
-&lt;br&gt;
 
 ## 📊 GitHub Stats
 
 &lt;p align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=baotran211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baotran211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriusTXB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriusTXB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=baotran211&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
-
-&lt;br&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=AriusTXB&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
 
 ## 🎯 Research Focus Areas
 
