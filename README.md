@@ -89,6 +89,7 @@
 |---------|--------|-------------|------|
 | **[AInvest](link)** | `Quant Finance` | Automated equity research platform aggregating market data, sentiment analysis, and AI-driven news analysis to generate investment memos | FastAPI, FinBERT, DistilBART, DeepSeek LLM, FAISS |
 | **[Hearo](link)** | `NLP/Voice AI` | Real-time meeting assistant with Vietnamese transcription, automated NER, and contextual information retrieval (🥉 CAMPATHON 2025) | faster-whisper, spaCy, Stanza, PySide6 |
+| **[Bone PINNs](link)** | `Physics/AI` | Deep learning analysis of ultrasonic guided waves in bone using Physics-Informed Neural Networks and Biot's theory | PyTorch, PINNs, PDE solvers |
 
 &lt;/div&gt;
 
@@ -98,6 +99,8 @@
 
 - 📝 **Ultrasonic material characterization using physics-informed deep learning** - *COMOSA 2025 (International Conference)*
 - 🏆 **CAMPATHON 2025**: 3rd Place - The Flow of Technology
+- 🥈 **Ha Tinh Provincial Physics Olympiad 2023**: 2nd Prize
+- 🥉 **Ha Tinh Provincial English Olympiad 2023**: 3rd Prize
 - 🎓 **VNU-UET Excellence Scholarship** (2024-2025)
 
 **Certifications:**
