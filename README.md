@@ -111,7 +111,7 @@ Deep learning analysis of guided waves in porous media using Physics-Informed Ne
 
 ## 🎯 Research Focus Areas
 
-```mermaid
+```normal
 mindmap
   root((Research))
     ["Physics-Informed ML"]
@@ -126,3 +126,12 @@ mindmap
       Market Microstructure
       Sentiment Analysis
       Knowledge Graphs
+```
+## 💡 Connect
+<div align="center">
+📧 Bao.X.Tran.Work@gmail.com | 🔗 linkedin.com/in/baotran211/
+</div>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=100&section=footer" />
+</div>
+```
