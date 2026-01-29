@@ -1,36 +1,3 @@
-&lt;p align="center"&gt;
-  &lt;img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=200&section=header&text=Tran%20Xuan%20Bao&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%C3%97%20Physics%20%C3%97%20Economics&descSize=20" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Researching+at+the+intersection+of...;Physics-Informed+Neural+Networks;Quantitative+Finance+%26+AI;Recursive+Reasoning+Systems;Deep+Learning+for+Wave+Propagation" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;a href="mailto:Bao.X.Tran.Work@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/baotran211/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://scholar.google.com/"&gt;
-    &lt;img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/&gt;
-  &lt;/a&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=baotran211&style=for-the-badge&color=3498db" alt="Profile views"/&gt;
-&lt;/p&gt;
-
-&lt;br&gt;
-
-&lt;h2 align="center"&gt;🌊 Research Philosophy&lt;/h2&gt;
-
-&lt;p align="center"&gt;
-  &lt;i&gt;"Bridging the deterministic beauty of Physics with the predictive power of Machine Learning, applied to the complex systems of Economics."&lt;/i&gt;
-&lt;/p&gt;
-
-&lt;br&gt;
-
 ## 🎓 Currently
 
 - **Undergraduate Research Assistant** @ NDE Lab (NAFOSTED funded) - Working on **Physics-Informed Neural Networks (PINNs)** for ultrasonic wave propagation in porous media (bone characterization)
@@ -49,22 +16,23 @@
 
 &lt;br&gt;
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 **Scientific Computing & AI**
-
-&lt;img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /&gt;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Engineering & MLOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-&lt;img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;
-
-**NLP & GenAI**
-
-&lt;img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /&gt; &lt;img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" /&gt; &lt;img src="https://img.shields.io/badge/FAISS-34495e?style=for-the-badge" /&gt;
-
-&lt;br&gt;
-
+**Domain Specific**
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ## 🚀 Featured Projects
 
 ### [AInvest](link) - Automated Equity Research Platform
@@ -88,8 +56,6 @@ Deep learning analysis of guided waves in porous media using Physics-Informed Ne
 
 - 📝 **Ultrasonic material characterization using physics-informed deep learning** - *COMOSA 2025*
 - 🏆 **Third Place**, CAMPATHON 2025: The Flow of Technology
-- 🥈 **Second Prize**, Ha Tinh Provincial Physics Olympiad 2023
-- 🥉 **Third Prize**, Ha Tinh Provincial English Olympiad 2023
 - 🎓 **VNU-UET Excellence Scholarship** (2024-2025)
 
 **Certifications:** Machine Learning Specialization (Stanford) • Google Data Analytics Professional Certificate • Neuro-Symbolic AI Summer School (Centaur AI)
