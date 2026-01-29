@@ -16,7 +16,7 @@
 ### 🎓 Currently
 - 🏛️ **BSc Artificial Intelligence** @ VNU-UET (GPA: 3.66/4.0, Expected 2026)
 - 🔬 **Undergraduate Research Assistant** @ NDE Lab (NAFOSTED funded) — Focus: **PINNs** for ultrasonic wave propagation.
-- 🧠 **AI Researcher** @ Recursive Reasoning Institute — Focus: Neural algorithm learning.
+- 🧠 **AI Researcher** @ Institute for Artificial Intelligence — Focus: Neural algorithm learning.
 
 ---
 
@@ -51,19 +51,6 @@
 - 📝 **Publication:** *Ultrasonic material characterization using physics-informed deep learning* - **COMOSA 2025**
 - 🏆 **3rd Place**, CAMPATHON 2025: The Flow of Technology
 - 🎓 **VNU-UET Excellence Scholarship** (2024-2025)
-
----
-
-### 📊 GitHub Analysis
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriusTXB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriusTXB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /></td>
-    </tr>
-  </table>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AriusTXB&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
