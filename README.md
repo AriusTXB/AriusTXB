@@ -111,21 +111,23 @@ Deep learning analysis of guided waves in porous media using Physics-Informed Ne
 
 ## 🎯 Research Focus Areas
 
-```normal
+```mermaid
 mindmap
-  root((Research))
-    ["Physics-Informed ML"]
-      Biot's Theory
-      Wave Scattering
-      Inverse Problems
-    ["Reasoning AI"]
-      Recursive Models
+  root((Research)):::root
+    Physics⚛️:::blue
+      Wave Propagation
+      PINNs
+    AI🧠:::purple
+      Recursive Reasoning
       Algorithm Learning
-      Tiny Reasoning
-    ["Quantitative Systems"]
-      Market Microstructure
+    Finance📈:::green
+      Market Modeling
       Sentiment Analysis
-      Knowledge Graphs
+
+  classDef root fill:#667eea,stroke:#764ba2,color:#fff
+  classDef blue fill:#4facfe,stroke:#00f2fe,color:#fff
+  classDef purple fill:#a8edea,stroke:#fed6e3,color:#2d3436
+  classDef green fill:#43e97b,stroke:#38f9d7,color:#000
 ```
 ## 💡 Connect
 <div align="center">
@@ -134,4 +136,3 @@ mindmap
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,50:8e44ad,100:2980b9&height=100&section=footer" />
 </div>
-```
