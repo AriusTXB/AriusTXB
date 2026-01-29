@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=AriusTXB&style=for-the-badge&color=3498db" alt="Profile views"/>
 
 *"Bridging the deterministic beauty of Physics with the predictive power of Machine Learning"*
+*"Computational results are believed by no one except for the person who wrote the code. Experimental results are believed by everyone, except for the person who ran the experiment."*
 </div>
 
 ---
